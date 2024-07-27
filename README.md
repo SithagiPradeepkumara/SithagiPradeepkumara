@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **SithagiPradeepkumara/SithagiPradeepkumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sithagi Kumara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithagipradeepkumara&label=Profile%20views&color=0e75b6&style=flat" alt="sithagipradeepkumara" /> </p>
 
-- 🌱 I’m currently learning **Java, Phython**
+- 🌱 I’m currently learning **Java,Phython**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,Java Sript**
 
 - 📫 How to reach me **sithagikumara@gmail.com**
 
